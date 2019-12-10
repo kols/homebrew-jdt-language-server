@@ -1,0 +1,4 @@
+Source: https://github.com/emacs-lsp/lsp-java/blob/master/install/pom.xml
+
+# mvn -Djdt.js.server.root=/usr/local/opt/jdt-language-server/libexec
+-Djunit.runner.root=~/.emacs.d/eclipse.jdt.ls/test-runner/ -Djunit.runner.fileName=junit-platform-console-standalone.jar -Djava.debug.root=/usr/local/opt/jdt-language-server/libexec/bundles clean package
