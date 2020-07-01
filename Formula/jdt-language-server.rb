@@ -2,9 +2,9 @@ class JdtLanguageServer < Formula
   desc "A Java language specific implementation of the Language Server Protocol"
   homepage "https://github.com/eclipse/eclipse.jdt.ls"
 
-  url "http://download.eclipse.org/jdtls/milestones/0.55.0/jdt-language-server-0.55.0-202004300028.tar.gz"
-  sha256 "fc848a0e22e1e3496e38b48d1324286a6583f7cddb2309165bfd6fec0f25bd4f"
-  version "0.55.0-202004300028"
+  url "https://download.eclipse.org/jdtls/milestones/0.57.0/jdt-language-server-0.57.0-202006172108.tar.gz"
+  sha256 "897e4499bb7992edb6ad453039aa8fe6f4fc9b41aa99ae18b49bfae2d73573fb"
+  version "0.57.0-202006172108"
 
   bottle :unneeded
 
